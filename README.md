@@ -43,3 +43,15 @@ ChatWS es una aplicación de chat en tiempo real que permite a múltiples usuari
 5. **Broadcast:** El mensaje se reenvía a todos los suscriptores de `/topic/public`
 6. **Recepción:** Todos los clientes conectados reciben el mensaje simultáneamente
 
+
+
+tarea para subir
+terminar las clases:
+websocketconfig
+chatmessage
+chatcontroller
+script.js
+
+websocket => publico
+          => /queue/usuario/men
+          => webrtc
